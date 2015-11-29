@@ -14,5 +14,5 @@ s.ios.deployment_target = '9.0'
 s.tvos.deployment_target = '9.0'
 s.tvos.exclude_files = 'Source/**/VgcCentralPublisherWatch.swift'
 s.osx.deployment_target = '10.9'
-s.osx.exclude_files = ['Source/**/VgcCentralPublisherWatch.swift','Source/**/VgcCentralViewController.swift','Source/**/VgcSharedViews.swift']
+s.osx.exclude_files = ['Source/**/VgcCentralPublisherWatch.swift','Source/**/VgcCentralViewController.swift','Source/**/VgcSharedViews.swift','Source/**/VgcWatchConnectivity.swift']
 end
