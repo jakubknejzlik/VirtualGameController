@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import VirtualGameController
 
 ///
 /// Create a case for each one of your custom elements, along with a raw value in
