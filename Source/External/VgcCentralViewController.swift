@@ -10,7 +10,6 @@ import Foundation
 import UIKit
 import GameController
 import AVFoundation
-import VirtualGameController
 
 @objc public class VgcCentralViewController: UIViewController {
     
