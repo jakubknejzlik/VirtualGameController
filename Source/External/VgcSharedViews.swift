@@ -8,7 +8,6 @@
 
 import Foundation
 import UIKit
-import VirtualGameController
 import AVFoundation
 
 public let animationSpeed = 0.35
