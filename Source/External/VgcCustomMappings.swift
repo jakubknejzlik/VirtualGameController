@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import VirtualGameController
 
 public class CustomMappings: CustomMappingsSuperclass {
     
