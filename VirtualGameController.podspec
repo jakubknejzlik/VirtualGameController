@@ -5,8 +5,8 @@ s.license = { :type => 'MIT', :file => 'LICENSE' }
 s.summary = 'Feature-rich game controller framework for iOS, tvOS, OS X and watchOS in Swift 2.1.'
 
 s.homepage = 'https://github.com/robreuss/VirtualGameController'
-s.author = { 'tadija' => 'john.doe@example.com' }
-s.social_media_url = 'http://twitter.com/john.doe'
+s.author = { 'robreuss' => 'digitreuss@gmail.comj' }
+s.social_media_url = 'http://twitter.com/robreuss'
 
 s.source = { :git => 'https://github.com/robreuss/VirtualGameController.git', :tag => String(s.version) }
 s.source_files = 'Source/**/*.swift'
